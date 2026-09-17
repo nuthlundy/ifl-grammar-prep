@@ -1,0 +1,1134 @@
+{
+  "exam_years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "total_authentic_questions": 200,
+  "questions_per_year": 40,
+  "primary_skill_statistics": [
+    {
+      "canonical_micro_skill": "Definite/Indefinite Articles",
+      "counts_by_year": {
+        "2021": 4,
+        "2022": 3,
+        "2023": 2,
+        "2024": 2,
+        "2025": 2
+      },
+      "total_primary_frequency": 13,
+      "percentage": 6.5,
+      "number_of_years_tested": 5,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2025",
+      "priority": "very_high"
+    },
+    {
+      "canonical_micro_skill": "Adverb Placement",
+      "counts_by_year": {
+        "2021": 3,
+        "2022": 1,
+        "2023": 3,
+        "2024": 3,
+        "2025": 0
+      },
+      "total_primary_frequency": 10,
+      "percentage": 5.0,
+      "number_of_years_tested": 4,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2024",
+      "priority": "very_high"
+    },
+    {
+      "canonical_micro_skill": "Relative Pronoun Choice",
+      "counts_by_year": {
+        "2021": 4,
+        "2022": 1,
+        "2023": 1,
+        "2024": 0,
+        "2025": 3
+      },
+      "total_primary_frequency": 9,
+      "percentage": 4.5,
+      "number_of_years_tested": 4,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2025",
+      "priority": "high"
+    },
+    {
+      "canonical_micro_skill": "Gerund vs Infinitive",
+      "counts_by_year": {
+        "2021": 3,
+        "2022": 1,
+        "2023": 1,
+        "2024": 3,
+        "2025": 1
+      },
+      "total_primary_frequency": 9,
+      "percentage": 4.5,
+      "number_of_years_tested": 5,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2025",
+      "priority": "high"
+    },
+    {
+      "canonical_micro_skill": "General Adjectives and Adverbs",
+      "counts_by_year": {
+        "2021": 2,
+        "2022": 0,
+        "2023": 2,
+        "2024": 2,
+        "2025": 2
+      },
+      "total_primary_frequency": 8,
+      "percentage": 4.0,
+      "number_of_years_tested": 4,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2025",
+      "priority": "high"
+    },
+    {
+      "canonical_micro_skill": "Personal/Possessive/Object Pronouns",
+      "counts_by_year": {
+        "2021": 1,
+        "2022": 3,
+        "2023": 2,
+        "2024": 1,
+        "2025": 0
+      },
+      "total_primary_frequency": 7,
+      "percentage": 3.5,
+      "number_of_years_tested": 4,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2024",
+      "priority": "high"
+    },
+    {
+      "canonical_micro_skill": "Active Causative (make/let/have someone do)",
+      "counts_by_year": {
+        "2021": 3,
+        "2022": 0,
+        "2023": 1,
+        "2024": 0,
+        "2025": 2
+      },
+      "total_primary_frequency": 6,
+      "percentage": 3.0,
+      "number_of_years_tested": 3,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2025",
+      "priority": "high"
+    },
+    {
+      "canonical_micro_skill": "Agreement with Correlative Conjunctions",
+      "counts_by_year": {
+        "2021": 2,
+        "2022": 1,
+        "2023": 1,
+        "2024": 2,
+        "2025": 0
+      },
+      "total_primary_frequency": 6,
+      "percentage": 3.0,
+      "number_of_years_tested": 4,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2024",
+      "priority": "high"
+    },
+    {
+      "canonical_micro_skill": "Comparative Forms",
+      "counts_by_year": {
+        "2021": 1,
+        "2022": 2,
+        "2023": 1,
+        "2024": 0,
+        "2025": 2
+      },
+      "total_primary_frequency": 6,
+      "percentage": 3.0,
+      "number_of_years_tested": 4,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2025",
+      "priority": "high"
+    },
+    {
+      "canonical_micro_skill": "Agreement with Quantifiers",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 3,
+        "2023": 1,
+        "2024": 1,
+        "2025": 1
+      },
+      "total_primary_frequency": 6,
+      "percentage": 3.0,
+      "number_of_years_tested": 4,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2025",
+      "priority": "high"
+    },
+    {
+      "canonical_micro_skill": "Countable vs Uncountable Nouns",
+      "counts_by_year": {
+        "2021": 1,
+        "2022": 1,
+        "2023": 0,
+        "2024": 3,
+        "2025": 0
+      },
+      "total_primary_frequency": 5,
+      "percentage": 2.5,
+      "number_of_years_tested": 3,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2024",
+      "priority": "high"
+    },
+    {
+      "canonical_micro_skill": "Participial Adjectives (-ed vs -ing)",
+      "counts_by_year": {
+        "2021": 2,
+        "2022": 1,
+        "2023": 1,
+        "2024": 0,
+        "2025": 1
+      },
+      "total_primary_frequency": 5,
+      "percentage": 2.5,
+      "number_of_years_tested": 4,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2025",
+      "priority": "high"
+    },
+    {
+      "canonical_micro_skill": "Question Tags",
+      "counts_by_year": {
+        "2021": 1,
+        "2022": 1,
+        "2023": 1,
+        "2024": 0,
+        "2025": 1
+      },
+      "total_primary_frequency": 4,
+      "percentage": 2.0,
+      "number_of_years_tested": 4,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2025",
+      "priority": "medium"
+    },
+    {
+      "canonical_micro_skill": "Wish / If Only",
+      "counts_by_year": {
+        "2021": 1,
+        "2022": 1,
+        "2023": 1,
+        "2024": 0,
+        "2025": 1
+      },
+      "total_primary_frequency": 4,
+      "percentage": 2.0,
+      "number_of_years_tested": 4,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2025",
+      "priority": "medium"
+    },
+    {
+      "canonical_micro_skill": "Embedded/Indirect Questions",
+      "counts_by_year": {
+        "2021": 1,
+        "2022": 1,
+        "2023": 0,
+        "2024": 1,
+        "2025": 1
+      },
+      "total_primary_frequency": 4,
+      "percentage": 2.0,
+      "number_of_years_tested": 4,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2025",
+      "priority": "medium"
+    },
+    {
+      "canonical_micro_skill": "Standard Passive Voice",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 1,
+        "2023": 1,
+        "2024": 1,
+        "2025": 1
+      },
+      "total_primary_frequency": 4,
+      "percentage": 2.0,
+      "number_of_years_tested": 4,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2025",
+      "priority": "medium"
+    },
+    {
+      "canonical_micro_skill": "Other Inversion",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 1,
+        "2024": 2,
+        "2025": 1
+      },
+      "total_primary_frequency": 4,
+      "percentage": 2.0,
+      "number_of_years_tested": 3,
+      "first_year_observed": "2023",
+      "most_recent_year_observed": "2025",
+      "priority": "medium"
+    },
+    {
+      "canonical_micro_skill": "Superlative Forms",
+      "counts_by_year": {
+        "2021": 2,
+        "2022": 0,
+        "2023": 0,
+        "2024": 0,
+        "2025": 1
+      },
+      "total_primary_frequency": 3,
+      "percentage": 1.5,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2025",
+      "priority": "medium"
+    },
+    {
+      "canonical_micro_skill": "Agreement with The/A Number Of",
+      "counts_by_year": {
+        "2021": 1,
+        "2022": 1,
+        "2023": 0,
+        "2024": 0,
+        "2025": 1
+      },
+      "total_primary_frequency": 3,
+      "percentage": 1.5,
+      "number_of_years_tested": 3,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2025",
+      "priority": "medium"
+    },
+    {
+      "canonical_micro_skill": "Passive Causative (have/get something done)",
+      "counts_by_year": {
+        "2021": 1,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1,
+        "2025": 1
+      },
+      "total_primary_frequency": 3,
+      "percentage": 1.5,
+      "number_of_years_tested": 3,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2025",
+      "priority": "medium"
+    },
+    {
+      "canonical_micro_skill": "Prepositions of Time",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 1,
+        "2023": 1,
+        "2024": 0,
+        "2025": 1
+      },
+      "total_primary_frequency": 3,
+      "percentage": 1.5,
+      "number_of_years_tested": 3,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2025",
+      "priority": "medium"
+    },
+    {
+      "canonical_micro_skill": "Second Conditional",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 1,
+        "2023": 0,
+        "2024": 1,
+        "2025": 1
+      },
+      "total_primary_frequency": 3,
+      "percentage": 1.5,
+      "number_of_years_tested": 3,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2025",
+      "priority": "medium"
+    },
+    {
+      "canonical_micro_skill": "Compound Adjectives",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 1,
+        "2023": 1,
+        "2024": 0,
+        "2025": 1
+      },
+      "total_primary_frequency": 3,
+      "percentage": 1.5,
+      "number_of_years_tested": 3,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2025",
+      "priority": "medium"
+    },
+    {
+      "canonical_micro_skill": "Past Perfect",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 2,
+        "2024": 0,
+        "2025": 1
+      },
+      "total_primary_frequency": 3,
+      "percentage": 1.5,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2023",
+      "most_recent_year_observed": "2025",
+      "priority": "medium"
+    },
+    {
+      "canonical_micro_skill": "Parallel Structure",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 1,
+        "2024": 1,
+        "2025": 1
+      },
+      "total_primary_frequency": 3,
+      "percentage": 1.5,
+      "number_of_years_tested": 3,
+      "first_year_observed": "2023",
+      "most_recent_year_observed": "2025",
+      "priority": "medium"
+    },
+    {
+      "canonical_micro_skill": "Adjective Order",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 1,
+        "2024": 1,
+        "2025": 1
+      },
+      "total_primary_frequency": 3,
+      "percentage": 1.5,
+      "number_of_years_tested": 3,
+      "first_year_observed": "2023",
+      "most_recent_year_observed": "2025",
+      "priority": "medium"
+    },
+    {
+      "canonical_micro_skill": "Clauses of Purpose",
+      "counts_by_year": {
+        "2021": 1,
+        "2022": 1,
+        "2023": 0,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2022",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Present Simple vs Continuous",
+      "counts_by_year": {
+        "2021": 1,
+        "2022": 0,
+        "2023": 0,
+        "2024": 0,
+        "2025": 1
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2025",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Third Conditional",
+      "counts_by_year": {
+        "2021": 1,
+        "2022": 0,
+        "2023": 0,
+        "2024": 0,
+        "2025": 1
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2025",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Present Perfect",
+      "counts_by_year": {
+        "2021": 1,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1,
+        "2025": 0
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2024",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Past Simple",
+      "counts_by_year": {
+        "2021": 1,
+        "2022": 0,
+        "2023": 1,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2023",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Agreement with Intervening Phrases",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 1,
+        "2023": 1,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2023",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Agreement with Compound Subjects",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 1,
+        "2023": 0,
+        "2024": 1,
+        "2025": 0
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2024",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Future Simple (will)",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 1,
+        "2023": 0,
+        "2024": 1,
+        "2025": 0
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2024",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Used to (Past Habits)",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 1,
+        "2023": 1,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2023",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Agreement with Gerund Phrases",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 1,
+        "2023": 0,
+        "2024": 0,
+        "2025": 1
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2025",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Subjunctive Mood",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 1,
+        "2023": 1,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2023",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Active Causative (get someone to do)",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 1,
+        "2023": 0,
+        "2024": 1,
+        "2025": 0
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2024",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Clauses of Contrast",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 1,
+        "2023": 0,
+        "2024": 0,
+        "2025": 1
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2025",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Present Simple in Time Clauses",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 1,
+        "2023": 1,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2023",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Alternative Conditional Conjunctions",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 1,
+        "2024": 0,
+        "2025": 1
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2023",
+      "most_recent_year_observed": "2025",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Past Continuous vs Past Simple",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 1,
+        "2024": 1,
+        "2025": 0
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2023",
+      "most_recent_year_observed": "2024",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Modals for Permission/Ability/Advice",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 1,
+        "2024": 0,
+        "2025": 1
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2023",
+      "most_recent_year_observed": "2025",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "General Subject-Verb Agreement",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1,
+        "2025": 1
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2024",
+      "most_recent_year_observed": "2025",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Fixed Expressions & Prepositions",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1,
+        "2025": 1
+      },
+      "total_primary_frequency": 2,
+      "percentage": 1.0,
+      "number_of_years_tested": 2,
+      "first_year_observed": "2024",
+      "most_recent_year_observed": "2025",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Passive Modals",
+      "counts_by_year": {
+        "2021": 1,
+        "2022": 0,
+        "2023": 0,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2021",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Agreement with Measurements",
+      "counts_by_year": {
+        "2021": 1,
+        "2022": 0,
+        "2023": 0,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2021",
+      "most_recent_year_observed": "2021",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Sequence of Past Tenses",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 1,
+        "2023": 0,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2022",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Negative Adverbial Inversion",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 1,
+        "2023": 0,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2022",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Double Comparatives (The... the...)",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 1,
+        "2023": 0,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2022",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "General Modals",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 1,
+        "2023": 0,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2022",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Stative Verbs",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 1,
+        "2023": 0,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2022",
+      "most_recent_year_observed": "2022",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Modals for Determination/Offers",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 1,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2023",
+      "most_recent_year_observed": "2023",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Noun Clauses",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 1,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2023",
+      "most_recent_year_observed": "2023",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Base Form after Auxiliaries",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 1,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2023",
+      "most_recent_year_observed": "2023",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Clause vs Phrase",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 1,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2023",
+      "most_recent_year_observed": "2023",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Quantifiers (much/many/few/little)",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 1,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2023",
+      "most_recent_year_observed": "2023",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Adjective after Linking Verb",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 1,
+        "2024": 0,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2023",
+      "most_recent_year_observed": "2023",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Cleft Sentences",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2024",
+      "most_recent_year_observed": "2024",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "General Relative Clauses",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2024",
+      "most_recent_year_observed": "2024",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Present Continuous",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2024",
+      "most_recent_year_observed": "2024",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Future Perfect Continuous",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2024",
+      "most_recent_year_observed": "2024",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Adjectives before Nouns",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2024",
+      "most_recent_year_observed": "2024",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Adverbs of Manner",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2024",
+      "most_recent_year_observed": "2024",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Adverbs of Time (yet, already)",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2024",
+      "most_recent_year_observed": "2024",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Mixed Conditional",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1,
+        "2025": 0
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2024",
+      "most_recent_year_observed": "2024",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Question Words",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 0,
+        "2024": 0,
+        "2025": 1
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2025",
+      "most_recent_year_observed": "2025",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Used to vs Get Used to",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 0,
+        "2024": 0,
+        "2025": 1
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2025",
+      "most_recent_year_observed": "2025",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "Confusing Adverbs (hard/hardly)",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 0,
+        "2024": 0,
+        "2025": 1
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2025",
+      "most_recent_year_observed": "2025",
+      "priority": "low"
+    },
+    {
+      "canonical_micro_skill": "General Verb Tenses",
+      "counts_by_year": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 0,
+        "2024": 0,
+        "2025": 1
+      },
+      "total_primary_frequency": 1,
+      "percentage": 0.5,
+      "number_of_years_tested": 1,
+      "first_year_observed": "2025",
+      "most_recent_year_observed": "2025",
+      "priority": "low"
+    }
+  ],
+  "methodology": "Primary-skill frequency calculated from authentic IFL exams."
+}

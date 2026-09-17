@@ -1,0 +1,925 @@
+{
+  "Nouns & Determiners": {
+    "Articles": [
+      {
+        "id": "NOUN-01",
+        "name": "Definite/Indefinite Articles",
+        "category": "Nouns & Determiners",
+        "subcategory": "Articles",
+        "question_count": 13,
+        "years_tested": [
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ]
+      }
+    ],
+    "Noun Types": [
+      {
+        "id": "NOUN-02",
+        "name": "Countable vs Uncountable Nouns",
+        "category": "Nouns & Determiners",
+        "subcategory": "Noun Types",
+        "question_count": 5,
+        "years_tested": [
+          "2021",
+          "2022",
+          "2024"
+        ]
+      }
+    ],
+    "Quantifiers": [
+      {
+        "id": "NOUN-03",
+        "name": "Quantifiers (much/many/few/little)",
+        "category": "Nouns & Determiners",
+        "subcategory": "Quantifiers",
+        "question_count": 1,
+        "years_tested": [
+          "2023"
+        ]
+      }
+    ]
+  },
+  "Adjectives & Adverbs": {
+    "Adverbs": [
+      {
+        "id": "ADJ-01",
+        "name": "Adverb Placement",
+        "category": "Adjectives & Adverbs",
+        "subcategory": "Adverbs",
+        "question_count": 10,
+        "years_tested": [
+          "2021",
+          "2022",
+          "2023",
+          "2024"
+        ]
+      },
+      {
+        "id": "ADJ-09",
+        "name": "Adverbs of Manner",
+        "category": "Adjectives & Adverbs",
+        "subcategory": "Adverbs",
+        "question_count": 1,
+        "years_tested": [
+          "2024"
+        ]
+      },
+      {
+        "id": "ADJ-10",
+        "name": "Adverbs of Time (yet, already)",
+        "category": "Adjectives & Adverbs",
+        "subcategory": "Adverbs",
+        "question_count": 1,
+        "years_tested": [
+          "2024"
+        ]
+      }
+    ],
+    "General": [
+      {
+        "id": "ADJ-02",
+        "name": "General Adjectives and Adverbs",
+        "category": "Adjectives & Adverbs",
+        "subcategory": "General",
+        "question_count": 8,
+        "years_tested": [
+          "2021",
+          "2023",
+          "2024",
+          "2025"
+        ]
+      }
+    ],
+    "Participial Adjectives": [
+      {
+        "id": "ADJ-03",
+        "name": "Participial Adjectives (-ed vs -ing)",
+        "category": "Adjectives & Adverbs",
+        "subcategory": "Participial Adjectives",
+        "question_count": 5,
+        "years_tested": [
+          "2021",
+          "2022",
+          "2023",
+          "2025"
+        ]
+      }
+    ],
+    "Compound Adjectives": [
+      {
+        "id": "ADJ-04",
+        "name": "Compound Adjectives",
+        "category": "Adjectives & Adverbs",
+        "subcategory": "Compound Adjectives",
+        "question_count": 3,
+        "years_tested": [
+          "2022",
+          "2023",
+          "2025"
+        ]
+      }
+    ],
+    "Adjective Order": [
+      {
+        "id": "ADJ-06",
+        "name": "Adjective Order",
+        "category": "Adjectives & Adverbs",
+        "subcategory": "Adjective Order",
+        "question_count": 3,
+        "years_tested": [
+          "2023",
+          "2024",
+          "2025"
+        ]
+      }
+    ],
+    "Linking Verbs": [
+      {
+        "id": "ADJ-05",
+        "name": "Adjective after Linking Verb",
+        "category": "Adjectives & Adverbs",
+        "subcategory": "Linking Verbs",
+        "question_count": 1,
+        "years_tested": [
+          "2023"
+        ]
+      }
+    ],
+    "Adjective Position": [
+      {
+        "id": "ADJ-08",
+        "name": "Adjectives before Nouns",
+        "category": "Adjectives & Adverbs",
+        "subcategory": "Adjective Position",
+        "question_count": 1,
+        "years_tested": [
+          "2024"
+        ]
+      }
+    ],
+    "Confusing Words": [
+      {
+        "id": "ADJ-11",
+        "name": "Confusing Adverbs (hard/hardly)",
+        "category": "Adjectives & Adverbs",
+        "subcategory": "Confusing Words",
+        "question_count": 1,
+        "years_tested": [
+          "2025"
+        ]
+      }
+    ]
+  },
+  "Relative Clauses": {
+    "Relative Pronouns": [
+      {
+        "id": "REL-01",
+        "name": "Relative Pronoun Choice",
+        "category": "Relative Clauses",
+        "subcategory": "Relative Pronouns",
+        "question_count": 9,
+        "years_tested": [
+          "2021",
+          "2022",
+          "2023",
+          "2025"
+        ]
+      }
+    ],
+    "General": [
+      {
+        "id": "REL-02",
+        "name": "General Relative Clauses",
+        "category": "Relative Clauses",
+        "subcategory": "General",
+        "question_count": 1,
+        "years_tested": [
+          "2024"
+        ]
+      }
+    ]
+  },
+  "Sentence Structure": {
+    "Question Tags": [
+      {
+        "id": "STRUC-01",
+        "name": "Question Tags",
+        "category": "Sentence Structure",
+        "subcategory": "Question Tags",
+        "question_count": 4,
+        "years_tested": [
+          "2021",
+          "2022",
+          "2023",
+          "2025"
+        ]
+      }
+    ],
+    "Wish Constructions": [
+      {
+        "id": "STRUC-02",
+        "name": "Wish / If Only",
+        "category": "Sentence Structure",
+        "subcategory": "Wish Constructions",
+        "question_count": 4,
+        "years_tested": [
+          "2021",
+          "2022",
+          "2023",
+          "2025"
+        ]
+      }
+    ],
+    "Word Order": [
+      {
+        "id": "STRUC-03",
+        "name": "Embedded/Indirect Questions",
+        "category": "Sentence Structure",
+        "subcategory": "Word Order",
+        "question_count": 4,
+        "years_tested": [
+          "2021",
+          "2022",
+          "2024",
+          "2025"
+        ]
+      }
+    ],
+    "Subjunctive": [
+      {
+        "id": "STRUC-04",
+        "name": "Subjunctive Mood",
+        "category": "Sentence Structure",
+        "subcategory": "Subjunctive",
+        "question_count": 2,
+        "years_tested": [
+          "2022",
+          "2023"
+        ]
+      }
+    ],
+    "Parallelism": [
+      {
+        "id": "STRUC-05",
+        "name": "Parallel Structure",
+        "category": "Sentence Structure",
+        "subcategory": "Parallelism",
+        "question_count": 3,
+        "years_tested": [
+          "2023",
+          "2024",
+          "2025"
+        ]
+      }
+    ],
+    "Clauses": [
+      {
+        "id": "STRUC-06",
+        "name": "Noun Clauses",
+        "category": "Sentence Structure",
+        "subcategory": "Clauses",
+        "question_count": 1,
+        "years_tested": [
+          "2023"
+        ]
+      },
+      {
+        "id": "STRUC-07",
+        "name": "Clause vs Phrase",
+        "category": "Sentence Structure",
+        "subcategory": "Clauses",
+        "question_count": 1,
+        "years_tested": [
+          "2023"
+        ]
+      }
+    ],
+    "Cleft Sentences": [
+      {
+        "id": "STRUC-08",
+        "name": "Cleft Sentences",
+        "category": "Sentence Structure",
+        "subcategory": "Cleft Sentences",
+        "question_count": 1,
+        "years_tested": [
+          "2024"
+        ]
+      }
+    ],
+    "Question Words": [
+      {
+        "id": "STRUC-10",
+        "name": "Question Words",
+        "category": "Sentence Structure",
+        "subcategory": "Question Words",
+        "question_count": 1,
+        "years_tested": [
+          "2025"
+        ]
+      }
+    ]
+  },
+  "Comparisons": {
+    "Superlatives": [
+      {
+        "id": "COMP-01",
+        "name": "Superlative Forms",
+        "category": "Comparisons",
+        "subcategory": "Superlatives",
+        "question_count": 3,
+        "years_tested": [
+          "2021",
+          "2025"
+        ]
+      }
+    ],
+    "Comparatives": [
+      {
+        "id": "COMP-02",
+        "name": "Comparative Forms",
+        "category": "Comparisons",
+        "subcategory": "Comparatives",
+        "question_count": 6,
+        "years_tested": [
+          "2021",
+          "2022",
+          "2023",
+          "2025"
+        ]
+      }
+    ],
+    "Comparative Parallelism": [
+      {
+        "id": "COMP-03",
+        "name": "Double Comparatives (The... the...)",
+        "category": "Comparisons",
+        "subcategory": "Comparative Parallelism",
+        "question_count": 1,
+        "years_tested": [
+          "2022"
+        ]
+      }
+    ]
+  },
+  "Conjunctions & Connectors": {
+    "Purpose": [
+      {
+        "id": "CONJ-01",
+        "name": "Clauses of Purpose",
+        "category": "Conjunctions & Connectors",
+        "subcategory": "Purpose",
+        "question_count": 2,
+        "years_tested": [
+          "2021",
+          "2022"
+        ]
+      }
+    ],
+    "Contrast": [
+      {
+        "id": "CONJ-02",
+        "name": "Clauses of Contrast",
+        "category": "Conjunctions & Connectors",
+        "subcategory": "Contrast",
+        "question_count": 2,
+        "years_tested": [
+          "2022",
+          "2025"
+        ]
+      }
+    ]
+  },
+  "Causative Structures": {
+    "Active Causative": [
+      {
+        "id": "CAUS-01",
+        "name": "Active Causative (make/let/have someone do)",
+        "category": "Causative Structures",
+        "subcategory": "Active Causative",
+        "question_count": 6,
+        "years_tested": [
+          "2021",
+          "2023",
+          "2025"
+        ]
+      },
+      {
+        "id": "CAUS-03",
+        "name": "Active Causative (get someone to do)",
+        "category": "Causative Structures",
+        "subcategory": "Active Causative",
+        "question_count": 2,
+        "years_tested": [
+          "2022",
+          "2024"
+        ]
+      }
+    ],
+    "Passive Causative": [
+      {
+        "id": "CAUS-02",
+        "name": "Passive Causative (have/get something done)",
+        "category": "Causative Structures",
+        "subcategory": "Passive Causative",
+        "question_count": 3,
+        "years_tested": [
+          "2021",
+          "2024",
+          "2025"
+        ]
+      }
+    ]
+  },
+  "Verb Patterns": {
+    "Gerunds & Infinitives": [
+      {
+        "id": "VERB-01",
+        "name": "Gerund vs Infinitive",
+        "category": "Verb Patterns",
+        "subcategory": "Gerunds & Infinitives",
+        "question_count": 9,
+        "years_tested": [
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ]
+      }
+    ],
+    "Used To": [
+      {
+        "id": "VERB-02",
+        "name": "Used to (Past Habits)",
+        "category": "Verb Patterns",
+        "subcategory": "Used To",
+        "question_count": 2,
+        "years_tested": [
+          "2022",
+          "2023"
+        ]
+      },
+      {
+        "id": "VERB-04",
+        "name": "Used to vs Get Used to",
+        "category": "Verb Patterns",
+        "subcategory": "Used To",
+        "question_count": 1,
+        "years_tested": [
+          "2025"
+        ]
+      }
+    ],
+    "Modals & Auxiliaries": [
+      {
+        "id": "VERB-03",
+        "name": "Base Form after Auxiliaries",
+        "category": "Verb Patterns",
+        "subcategory": "Modals & Auxiliaries",
+        "question_count": 1,
+        "years_tested": [
+          "2023"
+        ]
+      }
+    ]
+  },
+  "Pronouns": {
+    "Pronoun Types": [
+      {
+        "id": "PRON-01",
+        "name": "Personal/Possessive/Object Pronouns",
+        "category": "Pronouns",
+        "subcategory": "Pronoun Types",
+        "question_count": 7,
+        "years_tested": [
+          "2021",
+          "2022",
+          "2023",
+          "2024"
+        ]
+      }
+    ]
+  },
+  "Subject-Verb Agreement": {
+    "Special Subject Structures": [
+      {
+        "id": "SVA-01",
+        "name": "Agreement with The/A Number Of",
+        "category": "Subject-Verb Agreement",
+        "subcategory": "Special Subject Structures",
+        "question_count": 3,
+        "years_tested": [
+          "2021",
+          "2022",
+          "2025"
+        ]
+      },
+      {
+        "id": "SVA-05",
+        "name": "Agreement with Gerund Phrases",
+        "category": "Subject-Verb Agreement",
+        "subcategory": "Special Subject Structures",
+        "question_count": 2,
+        "years_tested": [
+          "2022",
+          "2025"
+        ]
+      }
+    ],
+    "Correlative Structures": [
+      {
+        "id": "SVA-02",
+        "name": "Agreement with Correlative Conjunctions",
+        "category": "Subject-Verb Agreement",
+        "subcategory": "Correlative Structures",
+        "question_count": 6,
+        "years_tested": [
+          "2021",
+          "2022",
+          "2023",
+          "2024"
+        ]
+      }
+    ],
+    "Amounts/Measurements": [
+      {
+        "id": "SVA-08",
+        "name": "Agreement with Measurements",
+        "category": "Subject-Verb Agreement",
+        "subcategory": "Amounts/Measurements",
+        "question_count": 1,
+        "years_tested": [
+          "2021"
+        ]
+      }
+    ],
+    "Intervening Structures": [
+      {
+        "id": "SVA-03",
+        "name": "Agreement with Intervening Phrases",
+        "category": "Subject-Verb Agreement",
+        "subcategory": "Intervening Structures",
+        "question_count": 2,
+        "years_tested": [
+          "2022",
+          "2023"
+        ]
+      }
+    ],
+    "Compound Subjects": [
+      {
+        "id": "SVA-04",
+        "name": "Agreement with Compound Subjects",
+        "category": "Subject-Verb Agreement",
+        "subcategory": "Compound Subjects",
+        "question_count": 2,
+        "years_tested": [
+          "2022",
+          "2024"
+        ]
+      }
+    ],
+    "Quantifiers": [
+      {
+        "id": "SVA-06",
+        "name": "Agreement with Quantifiers",
+        "category": "Subject-Verb Agreement",
+        "subcategory": "Quantifiers",
+        "question_count": 6,
+        "years_tested": [
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ]
+      }
+    ],
+    "General": [
+      {
+        "id": "SVA-07",
+        "name": "General Subject-Verb Agreement",
+        "category": "Subject-Verb Agreement",
+        "subcategory": "General",
+        "question_count": 2,
+        "years_tested": [
+          "2024",
+          "2025"
+        ]
+      }
+    ]
+  },
+  "Passive Voice": {
+    "Modal Passive": [
+      {
+        "id": "PASS-01",
+        "name": "Passive Modals",
+        "category": "Passive Voice",
+        "subcategory": "Modal Passive",
+        "question_count": 1,
+        "years_tested": [
+          "2021"
+        ]
+      }
+    ],
+    "Standard Passive": [
+      {
+        "id": "PASS-02",
+        "name": "Standard Passive Voice",
+        "category": "Passive Voice",
+        "subcategory": "Standard Passive",
+        "question_count": 4,
+        "years_tested": [
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ]
+      }
+    ]
+  },
+  "Verb Tenses": {
+    "Present Tenses": [
+      {
+        "id": "TENS-01",
+        "name": "Present Simple vs Continuous",
+        "category": "Verb Tenses",
+        "subcategory": "Present Tenses",
+        "question_count": 2,
+        "years_tested": [
+          "2021",
+          "2025"
+        ]
+      },
+      {
+        "id": "TENS-09",
+        "name": "Present Perfect",
+        "category": "Verb Tenses",
+        "subcategory": "Present Tenses",
+        "question_count": 2,
+        "years_tested": [
+          "2021",
+          "2024"
+        ]
+      },
+      {
+        "id": "TENS-05",
+        "name": "Stative Verbs",
+        "category": "Verb Tenses",
+        "subcategory": "Present Tenses",
+        "question_count": 1,
+        "years_tested": [
+          "2022"
+        ]
+      },
+      {
+        "id": "TENS-08",
+        "name": "Present Continuous",
+        "category": "Verb Tenses",
+        "subcategory": "Present Tenses",
+        "question_count": 1,
+        "years_tested": [
+          "2024"
+        ]
+      }
+    ],
+    "Past Tenses": [
+      {
+        "id": "TENS-02",
+        "name": "Past Simple",
+        "category": "Verb Tenses",
+        "subcategory": "Past Tenses",
+        "question_count": 2,
+        "years_tested": [
+          "2021",
+          "2023"
+        ]
+      },
+      {
+        "id": "TENS-03",
+        "name": "Sequence of Past Tenses",
+        "category": "Verb Tenses",
+        "subcategory": "Past Tenses",
+        "question_count": 1,
+        "years_tested": [
+          "2022"
+        ]
+      },
+      {
+        "id": "TENSE-02",
+        "name": "Past Perfect",
+        "category": "Verb Tenses",
+        "subcategory": "Past Tenses",
+        "question_count": 3,
+        "years_tested": [
+          "2023",
+          "2025"
+        ]
+      },
+      {
+        "id": "TENS-07",
+        "name": "Past Continuous vs Past Simple",
+        "category": "Verb Tenses",
+        "subcategory": "Past Tenses",
+        "question_count": 2,
+        "years_tested": [
+          "2023",
+          "2024"
+        ]
+      }
+    ],
+    "Future Tenses": [
+      {
+        "id": "TENS-04",
+        "name": "Future Simple (will)",
+        "category": "Verb Tenses",
+        "subcategory": "Future Tenses",
+        "question_count": 2,
+        "years_tested": [
+          "2022",
+          "2024"
+        ]
+      },
+      {
+        "id": "TENS-06",
+        "name": "Present Simple in Time Clauses",
+        "category": "Verb Tenses",
+        "subcategory": "Future Tenses",
+        "question_count": 2,
+        "years_tested": [
+          "2022",
+          "2023"
+        ]
+      },
+      {
+        "id": "TENS-10",
+        "name": "Future Perfect Continuous",
+        "category": "Verb Tenses",
+        "subcategory": "Future Tenses",
+        "question_count": 1,
+        "years_tested": [
+          "2024"
+        ]
+      }
+    ],
+    "General": [
+      {
+        "id": "TENSE-03",
+        "name": "General Verb Tenses",
+        "category": "Verb Tenses",
+        "subcategory": "General",
+        "question_count": 1,
+        "years_tested": [
+          "2025"
+        ]
+      }
+    ]
+  },
+  "Conditionals": {
+    "Conditional Types": [
+      {
+        "id": "COND-01",
+        "name": "Third Conditional",
+        "category": "Conditionals",
+        "subcategory": "Conditional Types",
+        "question_count": 2,
+        "years_tested": [
+          "2021",
+          "2025"
+        ]
+      },
+      {
+        "id": "COND-02",
+        "name": "Second Conditional",
+        "category": "Conditionals",
+        "subcategory": "Conditional Types",
+        "question_count": 3,
+        "years_tested": [
+          "2022",
+          "2024",
+          "2025"
+        ]
+      },
+      {
+        "id": "COND-04",
+        "name": "Mixed Conditional",
+        "category": "Conditionals",
+        "subcategory": "Conditional Types",
+        "question_count": 1,
+        "years_tested": [
+          "2024"
+        ]
+      }
+    ],
+    "Conditional Conjunctions": [
+      {
+        "id": "COND-03",
+        "name": "Alternative Conditional Conjunctions",
+        "category": "Conditionals",
+        "subcategory": "Conditional Conjunctions",
+        "question_count": 2,
+        "years_tested": [
+          "2023",
+          "2025"
+        ]
+      }
+    ]
+  },
+  "Prepositions & Collocations": {
+    "Prepositions": [
+      {
+        "id": "PREP-01",
+        "name": "Prepositions of Time",
+        "category": "Prepositions & Collocations",
+        "subcategory": "Prepositions",
+        "question_count": 3,
+        "years_tested": [
+          "2022",
+          "2023",
+          "2025"
+        ]
+      }
+    ],
+    "Collocations": [
+      {
+        "id": "PREP-02",
+        "name": "Fixed Expressions & Prepositions",
+        "category": "Prepositions & Collocations",
+        "subcategory": "Collocations",
+        "question_count": 2,
+        "years_tested": [
+          "2024",
+          "2025"
+        ]
+      }
+    ]
+  },
+  "Inversion": {
+    "Negative/Restrictive Inversion": [
+      {
+        "id": "INV-01",
+        "name": "Negative Adverbial Inversion",
+        "category": "Inversion",
+        "subcategory": "Negative/Restrictive Inversion",
+        "question_count": 1,
+        "years_tested": [
+          "2022"
+        ]
+      }
+    ],
+    "Other Inversion": [
+      {
+        "id": "INV-02",
+        "name": "Other Inversion",
+        "category": "Inversion",
+        "subcategory": "Other Inversion",
+        "question_count": 4,
+        "years_tested": [
+          "2023",
+          "2024",
+          "2025"
+        ]
+      }
+    ]
+  },
+  "Modals": {
+    "General": [
+      {
+        "id": "MODAL-01",
+        "name": "General Modals",
+        "category": "Modals",
+        "subcategory": "General",
+        "question_count": 1,
+        "years_tested": [
+          "2022"
+        ]
+      }
+    ],
+    "Function": [
+      {
+        "id": "MODAL-03",
+        "name": "Modals for Determination/Offers",
+        "category": "Modals",
+        "subcategory": "Function",
+        "question_count": 1,
+        "years_tested": [
+          "2023"
+        ]
+      },
+      {
+        "id": "MODAL-02",
+        "name": "Modals for Permission/Ability/Advice",
+        "category": "Modals",
+        "subcategory": "Function",
+        "question_count": 2,
+        "years_tested": [
+          "2023",
+          "2025"
+        ]
+      }
+    ]
+  }
+}
